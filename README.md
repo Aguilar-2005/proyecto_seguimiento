@@ -21,10 +21,10 @@ de tareas.
 | **Moran Leonardo**   | Colaborador         |
 
 ## **Cómo ejecutar el sistema**
-Asegúrate de tener Python 3 instalado en tu sistema.
-Descarga o clona el repositorio en tu máquina.
-Abre una terminal o consola y navega hasta la carpeta raíz del proyecto.
-Ejecuta el archivo principal con el comando:
+- Asegúrate de tener Python 3 instalado en tu sistema.
+- Descarga o clona el repositorio en tu máquina.
+- Abre una terminal o consola y navega hasta la carpeta raíz del proyecto.
+- Ejecuta el archivo principal con el comando:
 bash python main.py
 ## **Objetivos**  
 - Organizar proyectos y asignar tareas según rol  
