@@ -12,7 +12,7 @@ https://github.com/Aguilar-2005/proyecto_seguimiento.git
 Simulación de proyectos asignados a equipos de trabajo con seguimiento 
 de tareas. 
 
-## **Integrantes del Proyecto**  
+## **Integrantes del Equipo**  
 | Nombre               | Rol                 |
 |----------------------|---------------------|
 | **Aguilar Luis**     | Líder del Proyecto  |
@@ -27,9 +27,9 @@ Abre una terminal o consola y navega hasta la carpeta raíz del proyecto.
 Ejecuta el archivo principal con el comando:
 bash python main.py
 ## **Objetivos**  
-✅ Organizar proyectos y asignar tareas según rol  
-✅ Implementar principios de POO como **herencia, encapsulamiento y polimorfismo**  
-✅ Facilitar el seguimiento de entregables  
+- Organizar proyectos y asignar tareas según rol  
+- Implementar principios de POO como **herencia, encapsulamiento y polimorfismo**  
+- Facilitar el seguimiento de entregables  
 
 ## **Arquitectura del Proyecto**  
 ```
@@ -66,37 +66,7 @@ Proyecto/
 ✔ Se pueden consultar las tareas pendientes y completadas  
 
 ## **Generación de Reportes**  
-🔹 **Tipo de reportes generados:**  
-✅ Listado de tareas asignadas a cada miembro  
-✅ Estado actual de las tareas (Pendiente, En progreso, Completada)  
-✅ Informe general del proyecto con avances  
-
-Ejemplo de generación de reportes en código:  
-```python
-from reportes import Reporte
-
-# Generar reporte de tareas asignadas
-reporte = Reporte(proyecto)
-reporte.generar_resumen()
-```
-
-## **Ejemplo de Uso**  
-```python
-from src.lider_proyecto import LiderProyecto
-from src.colaborador import Colaborador
-from src.proyecto import Proyecto
-from src.tarea import Tarea
-
-# Crear proyecto
-proyecto = Proyecto("Sistema de Seguimiento de Proyectos")
-
-# Crear miembros del equipo
-lider = LiderProyecto("Guzman Keyla")
-colaborador = Colaborador("Aguilar Luis")
-
-# Crear tarea
-tarea1 = Tarea("Definir alcance del sistema", "2025-05-16")
-
-# Asignar tarea según rol
-lider.asignar_tarea(tarea1, colaborador)
-```
+ **Tipo de reportes generados:**  
+- Listado de tareas asignadas a cada miembro  
+- Estado actual de las tareas (Pendiente, En progreso, Completada)  
+- Informe general del proyecto con avances  
