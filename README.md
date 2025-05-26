@@ -45,7 +45,7 @@ Proyecto/
 │── README.md
 ```
 
-## **Clases en el Sistema**  
+## **Descripción de clases**  
 | Clase             | Descripción |
 |------------------|------------|
 | **Proyecto**     | Gestiona tareas y miembros dentro del proyecto |
