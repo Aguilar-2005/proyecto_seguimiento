@@ -2,7 +2,7 @@
 # **Sistema de Seguimiento de Proyectos Empresariales**  
 **Grupo 3** | **Gestión de tareas y equipo**  
 
-##  **Captura del ejecución del main**
+##  **Captura de la ejecución del main**
 ![Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/31ec5497-ac1a-46c0-8340-6a5967579d50)
 ![Captura de pantalla 2025-05-26 163401](https://github.com/user-attachments/assets/de2d621d-a4d6-4848-b786-161733d52a66)
 
