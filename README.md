@@ -3,9 +3,9 @@
 **Grupo 3** | **Gestión de tareas y equipo**  
 
 ##  **Captura del Proyecto**
-[Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/51ba54a7-0752-44df-83ff-f4155da3aeed)
+![Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/31ec5497-ac1a-46c0-8340-6a5967579d50)
+![Captura de pantalla 2025-05-26 163401](https://github.com/user-attachments/assets/de2d621d-a4d6-4848-b786-161733d52a66)
 
-[Captura de pantalla 2025-05-26 163401](https://github.com/user-attachments/assets/c847b9ae-2c7b-4385-b50a-3086366e2be2)
 **URL del Proyecto**: 
 https://github.com/Aguilar-2005/proyecto_seguimiento.git
 ## **Descripción**  
