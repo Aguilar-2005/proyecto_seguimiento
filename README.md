@@ -15,8 +15,8 @@ de tareas.
 ## **Integrantes del Equipo**  
 | Nombre               | Rol                 |
 |----------------------|---------------------|
-| **Aguilar Luis**     | Líder del Proyecto  |
-| **Guzman Keyla**     | Colaborador         |
+| **Guzman Keyla**     | Líder del Proyecto  |
+| **Aguilar Luis**     | Colaborador         |
 | **Almazan Nayra**    | Colaborador         |
 | **Moran Leonardo**   | Colaborador         |
 
