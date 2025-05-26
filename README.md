@@ -3,8 +3,10 @@
 **Grupo 3** | **Gestión de tareas y equipo**  
 
 ##  **Captura del Proyecto**
-**URL del Proyecto**: [Añade tu enlace aquí](#)  
-
+[Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/51ba54a7-0752-44df-83ff-f4155da3aeed)
+![Captura de pantalla 2025-05-26 163401](https://github.com/user-attachments/assets/c847b9ae-2c7b-4385-b50a-3086366e2be2)
+**URL del Proyecto**: 
+https://github.com/Aguilar-2005/proyecto_seguimiento.git
 ## **Descripción**  
 Simulación de proyectos asignados a equipos de trabajo con seguimiento 
 de tareas. 
@@ -12,8 +14,8 @@ de tareas.
 ## **Integrantes del Proyecto**  
 | Nombre               | Rol                 |
 |----------------------|---------------------|
-| **Guzman Keyla**     | Líder del Proyecto  |
-| **Aguilar Luis**     | Colaborador         |
+| **Aguilar Luis**     | Líder del Proyecto  |
+| **Guzman Keyla**     | Colaborador         |
 | **Almazan Nayra**    | Colaborador         |
 | **Moran Leonardo**   | Colaborador         |
 
