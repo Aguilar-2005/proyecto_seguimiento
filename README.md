@@ -50,14 +50,14 @@ Proyecto/
 | **Reportes** | Genera informes sobre el progreso de tareas y miembros |
 
 ## **Conceptos de POO Aplicados**  
-✔ **Herencia**: `LiderProyecto` y `Colaborador` heredan de `MiembroEquipo`  
-✔ **Encapsulamiento**: Restricción de acceso a atributos sensibles (`Tarea`)  
-✔ **Polimorfismo**: Método `asignarTarea()` cambia según el rol de cada miembro  
+- **Herencia**: `LiderProyecto` y `Colaborador` heredan de `MiembroEquipo`  
+- **Encapsulamiento**: Restricción de acceso a atributos sensibles (`Tarea`)  
+- **Polimorfismo**: Método `asignarTarea()` cambia según el rol de cada miembro  
 
 ## **Gestión de Tareas**  
-✔ Cada miembro puede recibir tareas asignadas según su rol  
-✔ Se verifica que una tarea no sea asignada más de una vez  
-✔ Se pueden consultar las tareas pendientes y completadas  
+- Cada miembro puede recibir tareas asignadas según su rol  
+- Se verifica que una tarea no sea asignada más de una vez  
+- Se pueden consultar las tareas pendientes y completadas  
 
 ## **Generación de Reportes**  
  **Tipo de reportes generados:**  
