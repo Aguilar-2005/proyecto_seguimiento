@@ -2,9 +2,6 @@
 # **Sistema de Seguimiento de Proyectos Empresariales**  
 **Grupo 3** | **Gestión de tareas y equipo**  
 
-##  **Captura del Proyecto**
-**URL del Proyecto**: [Añade tu enlace aquí](#)  
-
 ## **Descripción**  
 Simulación de proyectos asignados a equipos de trabajo con seguimiento 
 de tareas. 
@@ -62,28 +59,12 @@ Proyecto/
 ✅ Estado actual de las tareas (Pendiente, En progreso, Completada)  
 ✅ Informe general del proyecto con avances  
 
-Ejemplo de generación de reportes en código:  
-```python
-from reportes import Reporte
+##  **Captura de la ejecucion del main**
+![Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/a2d5a65d-9610-4cee-b94c-226adc4f3011)
+![Captura de pantalla 2025-05-26 163401](https://github.com/user-attachments/assets/909c320e-535c-4dae-8e57-7cae5be708f1)
 
-# Generar reporte de tareas asignadas
-reporte = Reporte(proyecto)
-reporte.generar_resumen()
-```
-
-## **Ejemplo de Uso**  
-```python
-from src.lider_proyecto import LiderProyecto
-from src.colaborador import Colaborador
-from src.proyecto import Proyecto
-from src.tarea import Tarea
-
-# Crear proyecto
-proyecto = Proyecto("Sistema de Seguimiento de Proyectos")
-
-# Crear miembros del equipo
-lider = LiderProyecto("Guzman Keyla")
-colaborador = Colaborador("Aguilar Luis")
+**URL del Proyecto**: 
+https://github.com/Aguilar-2005/proyecto_seguimiento.git
 
 # Crear tarea
 tarea1 = Tarea("Definir alcance del sistema", "2025-05-16")
