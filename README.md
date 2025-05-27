@@ -15,9 +15,9 @@ de tareas.
 | **Moran Leonardo**   | Colaborador         |
 
 ## **Objetivos**  
-✅ Organizar proyectos y asignar tareas según rol  
-✅ Implementar principios de POO como **herencia, encapsulamiento y polimorfismo**  
-✅ Facilitar el seguimiento de entregables  
+- Organizar proyectos y asignar tareas según rol  
+- Implementar principios de POO como **herencia, encapsulamiento y polimorfismo**  
+- Facilitar el seguimiento de entregables  
 
 ## **Arquitectura del Proyecto**  
 ```
@@ -44,20 +44,20 @@ Proyecto/
 | **Reportes** | Genera informes sobre el progreso de tareas y miembros |
 
 ## **Conceptos de POO Aplicados**  
-✔ **Herencia**: `LiderProyecto` y `Colaborador` heredan de `MiembroEquipo`  
-✔ **Encapsulamiento**: Restricción de acceso a atributos sensibles (`Tarea`)  
-✔ **Polimorfismo**: Método `asignarTarea()` cambia según el rol de cada miembro  
+- **Herencia**: `LiderProyecto` y `Colaborador` heredan de `MiembroEquipo`  
+- **Encapsulamiento**: Restricción de acceso a atributos sensibles (`Tarea`)  
+- **Polimorfismo**: Método `asignarTarea()` cambia según el rol de cada miembro  
 
 ## **Gestión de Tareas**  
-✔ Cada miembro puede recibir tareas asignadas según su rol  
-✔ Se verifica que una tarea no sea asignada más de una vez  
-✔ Se pueden consultar las tareas pendientes y completadas  
+- Cada miembro puede recibir tareas asignadas según su rol  
+- Se verifica que una tarea no sea asignada más de una vez  
+- Se pueden consultar las tareas pendientes y completadas  
 
 ## **Generación de Reportes**  
-🔹 **Tipo de reportes generados:**  
-✅ Listado de tareas asignadas a cada miembro  
-✅ Estado actual de las tareas (Pendiente, En progreso, Completada)  
-✅ Informe general del proyecto con avances  
+**Tipo de reportes generados:**  
+- Listado de tareas asignadas a cada miembro  
+- Estado actual de las tareas (Pendiente, En progreso, Completada)  
+- Informe general del proyecto con avances  
 
 ##  **Captura de la ejecucion del main**
 ![Captura de pantalla 2025-05-26 163248](https://github.com/user-attachments/assets/a2d5a65d-9610-4cee-b94c-226adc4f3011)
