@@ -1,3 +1,4 @@
+#Importamos las clases necesarias desde el módulo 'src'
 from src.lider_proyecto import LiderProyecto
 from src.colaborador import Colaborador
 from src.proyecto import Proyecto
