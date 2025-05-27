@@ -2,9 +2,9 @@ from src.lider_proyecto import LiderProyecto
 from src.colaborador import Colaborador
 from src.proyecto import Proyecto
 from src.tarea import Tarea
-#Creamos el nombre del proyecto
+# Crear proyecto
 proyecto = Proyecto("Sistema de Seguimiento de Proyectos Empresariales")
-#Creamos las tareas específicas del proyecto con sus respectivas fechas
+# Crear tareas específicas del proyecto
 t1 = Tarea("Definir alcance del sistema", "2025-05-16")
 t2 = Tarea("Recopilar requerimientos funcionales", "2025-05-16")
 t3 = Tarea("Diseñar estructura de carpetas y módulos", "2025-05-16")
@@ -17,12 +17,12 @@ t9 = Tarea("Desarrollar pruebas unitarias", "2025-05-20")
 t10 = Tarea("Documentar el código fuente", "2025-05-20")
 t11 = Tarea("Redactar README.md", "2025-05-23")
 t12 = Tarea("Preparar entrega del proyecto", "2025-05-24")
-#Creamos objetos que representan a los miembros del equipo
+# Crear miembros del equipo
 lider = LiderProyecto("Guzman Keyla")
 colaborador1 = Colaborador("Aguilar Luis")
 colaborador2 = Colaborador("Almazan Nayra")
 colaborador3 = Colaborador("Moran Leonardo")
-#Agregamos todas las tareas que creamos al proyecto
+# Agregar tareas al proyecto
 proyecto.agregar_tarea(t1)
 proyecto.agregar_tarea(t2)
 proyecto.agregar_tarea(t3)
@@ -35,14 +35,14 @@ proyecto.agregar_tarea(t9)
 proyecto.agregar_tarea(t10)
 proyecto.agregar_tarea(t11)
 proyecto.agregar_tarea(t12)
-#Agregamos todos los miembros al proyecto
+# Agregar miembros al proyecto
 proyecto.agregar_miembro(lider)
 proyecto.agregar_miembro(colaborador1)
 proyecto.agregar_miembro(colaborador2)
 proyecto.agregar_miembro(colaborador3)
-#Mostramos información general del proyecto
+# Mostrar información general del proyecto
 proyecto.mostrar_info()
-#Asignamos tareas a los miembros del equipo usando el polimorfismo
+# Asignar tareas (polimorfismo)
 lider.asignar_tarea(t1)
 lider.asignar_tarea(t2)
 colaborador1.asignar_tarea(t3)
