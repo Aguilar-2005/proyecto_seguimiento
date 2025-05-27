@@ -65,10 +65,3 @@ Proyecto/
 
 **URL del Proyecto**: 
 https://github.com/Aguilar-2005/proyecto_seguimiento.git
-
-# Crear tarea
-tarea1 = Tarea("Definir alcance del sistema", "2025-05-16")
-
-# Asignar tarea según rol
-lider.asignar_tarea(tarea1, colaborador)
-```
