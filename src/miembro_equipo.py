@@ -1,4 +1,3 @@
-#Definimos la clase base para representar a un miembro del equipo
 class MiembroEquipo:
     """
     Clase base para representar a un miembro del equipo.
