@@ -4,6 +4,7 @@ class MiembroEquipo:
     Miembros del grupo: Grupo 3 (Aguilar Luis, Guzman Keyla, Moran Leonardo, Almazan Nayra)
     """
     def __init__(self, nombre):
+        #Inicializamos el atributo nombre con el valor recibido.
         self.nombre = nombre
     def asignar_tarea(self, tarea):
         """
